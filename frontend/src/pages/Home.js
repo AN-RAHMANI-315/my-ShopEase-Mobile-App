@@ -36,7 +36,7 @@ const Home = () => {
         <div className="px-4 py-6">
           <div className="flex items-center justify-between mb-6">
             <div>
-              <h1 className="text-2xl font-bold">ShopEase</h1>
+              <h1 className="text-2xl font-bold">AN-RAHMANI</h1>
               <p className="text-purple-100 text-sm">Discover amazing products</p>
             </div>
             <div className="flex items-center space-x-3">
